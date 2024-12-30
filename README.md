@@ -23,6 +23,7 @@ Display online/offline status of users in real-time.
 Fully responsive interface, optimized for desktop and mobile devices.
 
 Tech Stack:-
+
 Frontend: ReactJS, CSS.
 
 Backend: Firebase (Firestore, Authentication, Hosting)
